@@ -1,0 +1,9 @@
+{
+  "name": "yousoftware.live",
+  "version": "0.0.1",
+  "description": "react frontend client for yousoftware",
+  "main": "main.js",
+  "author": "Yousof Mersal",
+  "license": "MIT",
+  "private": true
+}
